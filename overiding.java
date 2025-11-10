@@ -10,7 +10,9 @@ class UBL extends Central_Bank{
 @Override
 
 double interate(){
+
     return 10.7;
+
 }
  
 }
@@ -23,9 +25,7 @@ class HBL extends Central_Bank{
     }
 }
 
-
-
-class overloading{
+class overiding{
     public static void main(String[] args) {
 // System.out.println("Sant Rampal ji Maharaj ji blessing me ");
 

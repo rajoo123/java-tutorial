@@ -16,7 +16,7 @@ public void setter(int a , String n ){
 }
 
 class basic {
-
+                     
 public static void main(String args[]){
       
  System.out.println("God is one he is Kabir Saheb Ji"); 
