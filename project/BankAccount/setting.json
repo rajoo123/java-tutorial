@@ -1,0 +1,7 @@
+
+{
+  "java.project.sourcePaths": [
+    "BankAccount"
+  ],
+  "java.project.outputPath": "bin"
+}
