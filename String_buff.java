@@ -7,6 +7,7 @@ class String_buff{
           StringBuffer sb = new StringBuffer("Password123");
 
           sb.append("hello");
+
           System.out.println(sb);
           
     }
